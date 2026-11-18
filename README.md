@@ -102,16 +102,3 @@ A clean Excel homepage with:
 
 ## 👩‍💻 My Linkedin :
 https://www.linkedin.com/in/safaali-data-analysis/
-
----
-
-## 📁 Files Included
-
-- `.xlsx` dashboard
-- Banking image (for homepage design)
-- `.pptx` explanation file
-
-
----
-
-## ⭐ If you like this project, give it a star!
